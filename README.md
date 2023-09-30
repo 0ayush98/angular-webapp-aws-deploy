@@ -86,7 +86,7 @@
   - Changes made to your local Git repository are automatically reflected in the deployed application.
 
 
->>>>>>> 6aba085eb8962eed208ea080690843f1a392843f
+
 
 
 
