@@ -1,0 +1,16 @@
+version: 0.2
+
+
+phases:
+ 
+  build:
+    commands:
+        - pwd
+        - npm install 
+        - npm run build
+        - cp -r dist/ deploy/
+  
+artifacts:
+  files:
+      - "**/*"
+  base-directory: "deploy/"
