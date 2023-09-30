@@ -48,11 +48,11 @@
   - Changes made to your local Git repository are automatically reflected in the deployed application.
 
 
+![Screenshot 2023-09-30 230626](https://github.com/0ayush98/angular-webapp-aws-deploy/assets/35577558/6f254b5e-4d09-437b-9c77-e6cd5a43012b)
 
 
 ![beanstalk](https://github.com/0ayush98/angular-webapp-aws-deploy/assets/35577558/05fce05d-fa7b-43e2-98ad-529cf1c300f0)
 
-![CodeBuild](https://github.com/0ayush98/angular-webapp-aws-deploy/assets/35577558/9c5814a8-7960-4f9d-abe0-0908a6abb181)
 
 ![pipeline1](https://github.com/0ayush98/angular-webapp-aws-deploy/assets/35577558/637009fb-c053-459b-9b92-036766327a7a)
 
