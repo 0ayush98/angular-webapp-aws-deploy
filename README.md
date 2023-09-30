@@ -22,7 +22,7 @@
  - Create a buildspec.yml file to define build, post-build, and artifact storage actions.
 
 5. ## Build and Artifact Storage
-<<<<<<< HEAD
+
 
  - AWS CodeBuild compiles your code successfully.
  - The resulting 'dist' folder contains the build artifacts.
@@ -46,46 +46,6 @@
 
   - Achieve a fully automated flow for Angular web app development.
   - Changes made to your local Git repository are automatically reflected in the deployed application.
-
-![BUILD!](screentshots/CodeBuild)
-
-
-
-
-![DEPLOY!](screentshots/beanstalk)
-
-
-
-![PIPELINE1!](screentshots/pipeline1)
-
-
-![PIPELINE2!](screentshots/pipeline2)
-=======
-
- - AWS CodeBuild compiles your code successfully.
- - The resulting 'dist' folder contains the build artifacts.
- - These artifacts are packaged and stored in an S3 storage bucket.
-
-6. ## Deployment Environment
-
-  - Create a deployment environment using AWS Elastic Beanstalk.
-
-7. ## AWS CodePipeline Integration
-
- - Integrate Git, AWS CodeBuild, and AWS Elastic Beanstalk using AWS CodePipeline.
- - Changes in your local Git repository trigger the CodePipeline.
-
-8. ## Automated Deployment
-
- - When changes occur, CodePipeline builds the app using CodeBuild.
- - The updated application is then deployed to the Elastic Beanstalk environment.
-
-9. ## Continuous Integration
-
-  - Achieve a fully automated flow for Angular web app development.
-  - Changes made to your local Git repository are automatically reflected in the deployed application.
-
-
 
 
 
