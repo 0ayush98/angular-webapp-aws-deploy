@@ -50,3 +50,14 @@
 
 
 
+![beanstalk](https://github.com/0ayush98/angular-webapp-aws-deploy/assets/35577558/05fce05d-fa7b-43e2-98ad-529cf1c300f0)
+
+![CodeBuild](https://github.com/0ayush98/angular-webapp-aws-deploy/assets/35577558/9c5814a8-7960-4f9d-abe0-0908a6abb181)
+
+![pipeline1](https://github.com/0ayush98/angular-webapp-aws-deploy/assets/35577558/637009fb-c053-459b-9b92-036766327a7a)
+
+![pipeline2](https://github.com/0ayush98/angular-webapp-aws-deploy/assets/35577558/2284c762-2f66-42b3-a1ca-181298c718f7)
+
+
+
+
